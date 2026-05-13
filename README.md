@@ -1,3 +1,1 @@
-## Bubble Sort ##
-
-![Demo](demo.gif)
+![demo](demo.gif)
